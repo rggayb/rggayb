@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://www.linkedin.com/in/ranggayb/)
 <h1 align="center">Hi 👋, I'm Rangga Yudhistira Brata</h1>
-<h3 align="center">A passionate iOS developer from Indonesia</h3>
+<h3 align="center">A passionate Product Manager with Software Engineer skillset from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rggayb&label=Profile%20views&color=0e75b6&style=flat" alt="rggayb" /> </p>
